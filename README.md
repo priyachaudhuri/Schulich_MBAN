@@ -12,8 +12,7 @@ Visual Analytics introduced theories of visual communication design, data-driven
 
 This repository serves as a personal portfolio of my coursework and hands-on learning, highlighting the progression of technical and analytical skills developed throughout the program.
 
-_Disclaimer
-All assignments in this repository are based on course labs and homework completed as part of my academic program. These materials are intended for educational purposes only. Please do not copy or submit any of this work for academic credit._
+_Disclaimer: All assignments in this repository are based on course labs and homework completed as part of my academic program. These materials are intended for educational purposes only. Please do not copy or submit any of this work for academic credit._
 
 
 
