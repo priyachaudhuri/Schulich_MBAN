@@ -11,3 +11,12 @@ Data Science II extended into advanced topics, including Python scripting and mo
 Visual Analytics introduced theories of visual communication design, data-driven decision-making workflows, and best practices in storytelling, with technical training in Tableau and an emphasis on visualization taxonomy and structure.
 
 This repository serves as a personal portfolio of my coursework and hands-on learning, highlighting the progression of technical and analytical skills developed throughout the program.
+
+_Disclaimer
+All assignments in this repository are based on course labs and homework completed as part of my academic program. These materials are intended for educational purposes only. Please do not copy or submit any of this work for academic credit._
+
+
+
+
+
+
